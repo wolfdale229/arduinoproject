@@ -51,8 +51,8 @@ void setup() {
   Serial.println("Omefe Chika!");
   lcd.print("Omefe Chika!");
   lcd.setCursor(0, 1); // Sets cursor at Column 0 and Line 1
-  Serial.println("F/HD/16/3430054");
-  lcd.print("F/HD/16/3430054");
+  Serial.println("admission number");
+  lcd.print("admission number");
   delay(2000);
   lcd.clear();
   pinMode(input_valve , OUTPUT);
